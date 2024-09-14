@@ -1,4 +1,4 @@
-🗜️ File Packer Unpacker with Encryption
+# 🗜️ File Packer Unpacker with Encryption
 Explore the world of secure file handling with the File Packer Unpacker with Encryption, a Java-based application that combines data compression, decompression, and encryption. 🔐
 
 ## Features
