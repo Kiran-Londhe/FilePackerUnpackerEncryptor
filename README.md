@@ -12,7 +12,7 @@ Explore the world of secure file handling with the File Packer Unpacker with Enc
 
 ## Getting Started
 
-1. **Clone the Repo**: (https://github.com/Kiran-Londhe/YourRepositoryName)
+1. **Clone the Repo**: (https://github.com/Kiran-Londhe/FilePackerUnpackerEncryptor)
 ## Contributions Welcome! 🎉
 
 Help grow the project by opening issues, submitting pull requests, and collaborating with the community.
